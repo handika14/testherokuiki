@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy:gh": "ng build --prod --base-href='https://handika14.github.io/followers-app/' && ngh",
+    "deploy:gh": "ng build --prod --base-href='https://handika14.github.io/testherokuiki/' && ngh",
     "postinstall": "ng build --output-path app-testherokuiki --aot --prod"
   },
   "private": true,
